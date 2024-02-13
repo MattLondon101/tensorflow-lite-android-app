@@ -1,0 +1,12 @@
+AD_mild
+AD_moderate
+AD_severe
+skin_healthy
+fingernail
+Lightbox
+jewelry
+actigraphyDevice
+floor
+wireElectric
+foot
+leg
